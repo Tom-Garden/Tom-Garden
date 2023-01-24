@@ -4,4 +4,4 @@ Actualmente me encuentro en la búsqueda de una reinvención laboral de la mano 
 
 Tengo desarrolladas mis habilidades interpersonales, de trabajo en equipo, pensamiento lógico, resolución de problemas y comunicación con el equipo y con otros estamentos de la organización. 
 
-Además, cuento con conocimientos tanto de HTML, CSS, Bootstrap, jQuery, Node, express, PostgreSQL, inglés intermedio alto (FCE aprobado con A / B2). En mi formación profesional me interesé especialmente en el diseño y evaluación de proyectos.
+Además, cuento con conocimientos tanto de HTML, CSS, Bootstrap, jQuery, Node, express, PostgreSQL, inglés intermedio alto (FCE aprobado con A / B2, Proficient EF SET Certificate / C2). En mi formación profesional me interesé especialmente en el diseño y evaluación de proyectos.
